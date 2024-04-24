@@ -7,7 +7,7 @@ client = OpenAI(
 )
 
 # title
-st.title("Chat with AI")
+st.title("Chat with AI testing")
 
 
 avatars={"system":"💻🧠","user":"🧑‍💼","assistant":"🎓"}
